@@ -1,6 +1,12 @@
 <!-- Mona Full Width Banner -->
 
-<img src="https://media1.tenor.com/m/mq8DQLu2FbQAAAAd/mona-genshin-impact.gif" width="100%" height="350"/>
+<!-- <img src="https://media1.tenor.com/m/mq8DQLu2FbQAAAAd/mona-genshin-impact.gif" width="100%" height="250"/> -->
+<img 
+src="https://media1.tenor.com/m/mq8DQLu2FbQAAAAd/mona-genshin-impact.gif" 
+width="100%" 
+height="250"
+style="object-fit: cover;"
+/>
 
 <!-- <h2 align="left">
 Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design Enthusiast
@@ -50,13 +56,13 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 <div align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula&cache_seconds=1800" 
-height="150"
+src="https://github-readme-stats.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=86400" 
+height="160"
 />
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayda-1&layout=compact&theme=dracula&cache_seconds=1800" 
-height="150"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayda-1&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" 
+height="160"
 />
 
 </div>
