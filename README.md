@@ -53,10 +53,10 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 
 ## 📊 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<table border="0" cellspacing="20">
 <tr>
 
-<td width="50%" align="center">
+<td align="center" valign="top">
 
 <img 
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" 
@@ -65,7 +65,7 @@ height="165"
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" valign="top">
 
 <img 
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kayda-1&layout=compact&theme=dracula" 
@@ -118,10 +118,10 @@ height="165"
 
 ## 🧪 Featured Projects
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<table border="0" cellspacing="25">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Landing Page Project
 
@@ -133,7 +133,7 @@ height="165"
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐍 Python Automation Scripts
 
@@ -142,6 +142,8 @@ height="165"
 🔹 Basic scripting  
 
 [🔗 View Project](https://github.com/Kayda-1)
+<br>
+<br>
 
 </td>
 
@@ -149,7 +151,7 @@ height="165"
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 Portfolio Website
 
@@ -161,7 +163,7 @@ height="165"
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Future BIM Tools
 
@@ -170,7 +172,8 @@ height="165"
 🔹 Coming soon  
 
 🚧 In progress
-
+<br>
+<br>
 </td>
 
 </tr>
