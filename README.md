@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&theme=cobalt"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&theme=cobalt"/>
 <h2 align="left">
 Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design Enthusiast
 </h2>
