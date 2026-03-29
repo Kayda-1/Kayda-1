@@ -27,7 +27,7 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 </div>
 
 <br clear="both"> -->
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="70%">
@@ -53,19 +53,29 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="50%" align="center">
 
 <img 
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" 
-height="160"
+height="165"
 />
+
+</td>
+
+<td width="50%" align="center">
 
 <img 
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kayda-1&layout=compact&theme=dracula" 
-height="160"
+height="165"
 />
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
