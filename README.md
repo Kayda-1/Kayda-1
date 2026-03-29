@@ -1,62 +1,119 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&theme=cobalt"/>
+<!-- Mona Full Width Banner -->
+
+<img src="https://media1.tenor.com/m/mq8DQLu2FbQAAAAd/mona-genshin-impact.gif" width="100%" height="350"/>
+
+<!-- <h2 align="left">
+Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design Enthusiast
+</h2> -->
+
+<!-- Typing Animation -->
+
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=8A2BE2&lines=Computational+Design;BIM+Automation;Python+Developer"/> -->
+
+---
+
+<!-- Avatar Right (fixed position) -->
+
+<!-- <div align="right">
+
+<img height="150" src="https://i.imgflip.com/65efzo.gif"/>
+
+</div>
+
+<br clear="both"> -->
+<table>
+<tr>
+
+<td width="70%">
+
 <h2 align="left">
 Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design Enthusiast
 </h2>
 
-###
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=8A2BE2&lines=Computational+Design;BIM+Automation;Python+Developer"/>
+
+</td>
+
+<td width="30%" align="right">
+
+<img height="150" src="https://i.imgflip.com/65efzo.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kayda-1&layout=compact&theme=dracula" height="150"/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula&cache_seconds=1800" 
+height="150"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayda-1&layout=compact&theme=dracula&cache_seconds=1800" 
+height="150"
+/>
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-
-###
-
-<h3 align="left">🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="32"/>
 
 </div>
 
-###
+---
 
-<h3 align="left">🚀 Currently Learning</h3>
+## 🚀 Currently Learning
 
-<ul>
-<li>Python for automation</li>
-<li>Dynamo for architectural workflows</li>
-<li>Revit API basics</li>
-<li>Web development fundamentals</li>
-</ul>
+- Python for automation  
+- Dynamo for architectural workflows  
+- Revit API basics  
+- Web development fundamentals  
 
-###
+---
 
-<h3 align="left">📫 Connect With Me</h3>
+## 🧪 Featured Projects
+
+🔹 **Landing Page Project**  
+HTML + CSS responsive layout  
+
+🔹 **Python Practice Scripts**  
+Basic automation tools  
+
+🔹 **Portfolio Website**  
+Currently under development  
+
+---
+
+## 📫 Connect With Me
 
 <div align="left">
 
@@ -74,22 +131,14 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 
 </div>
 
-###
+---
 
-<br clear="both">
+## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Kayda-1/Kayda-1/output/snake.svg"/>
 
-###
+---
 
-<div align="center">
+<!-- Footer -->
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?count=5"/>
-
-</div>
-
-###
-
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&theme=cobalt"/>
