@@ -27,7 +27,7 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 </div>
 
 <br clear="both"> -->
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 
 <td width="70%">
@@ -53,7 +53,7 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 
 ## 📊 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 
 <td width="50%" align="center">
@@ -118,34 +118,64 @@ height="165"
 
 ## 🧪 Featured Projects
 
-🔹 **Landing Page Project**  
-HTML + CSS responsive layout  
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
 
-🔹 **Python Practice Scripts**  
-Basic automation tools  
+<td width="50%">
 
-🔹 **Portfolio Website**  
-Currently under development  
+### 🌐 Landing Page Project
 
----
+🔹 HTML + CSS  
+🔹 Responsive Design  
+🔹 Clean Layout  
 
-## 📫 Connect With Me
+[🔗 View Project](https://github.com/Kayda-1/project1)
 
-<div align="left">
+</td>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<td width="50%">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🐍 Python Automation Scripts
 
-<a href="YOUR_BEHANCE">
-<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
+🔹 Task automation  
+🔹 File handling  
+🔹 Basic scripting  
 
-</div>
+[🔗 View Project](https://github.com/Kayda-1)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 Portfolio Website
+
+🔹 Personal portfolio  
+🔹 UI design  
+🔹 Under development  
+
+[🔗 View Project](https://github.com/Kayda-1)
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Future BIM Tools
+
+🔹 Dynamo scripts  
+🔹 Revit automation  
+🔹 Coming soon  
+
+🚧 In progress
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
