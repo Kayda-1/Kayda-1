@@ -56,12 +56,12 @@ Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design 
 <div align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=86400" 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kayda-1&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" 
 height="160"
 />
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayda-1&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kayda-1&layout=compact&theme=dracula" 
 height="160"
 />
 
