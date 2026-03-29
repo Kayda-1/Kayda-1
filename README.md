@@ -1,5 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&theme=cobalt"/>
 <h2 align="left">
-Hi 👋! I'm Kayda — Architectural Engineering Student & Future BIM Automation Developer
+Hi 👋! I'm Kayda — Architectural Engineering Student | Computational Design Enthusiast
 </h2>
 
 ###
@@ -78,6 +79,14 @@ Hi 👋! I'm Kayda — Architectural Engineering Student & Future BIM Automation
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kayda-1/Kayda-1/output/snake.svg"/>
+
+###
+
+<div align="center">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?count=5"/>
+
+</div>
 
 ###
 
